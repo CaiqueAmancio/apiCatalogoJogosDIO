@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExemploApiCatalogoJogos\\bin\\Debug",
+    "\\ExemploApiCatalogoJogos\\bin\\Debug\\net5.0",
+    "\\ExemploApiCatalogoJogos\\bin\\Debug\\net5.0\\ref",
+    "\\ExemploApiCatalogoJogos\\bin\\Release",
+    "\\ExemploApiCatalogoJogos\\bin\\Release\\net5.0",
+    "\\ExemploApiCatalogoJogos\\bin\\Release\\net5.0\\ref",
+    "\\ExemploApiCatalogoJogos\\Controllers\\V1",
+    "\\ExemploApiCatalogoJogos\\Entities",
+    "\\ExemploApiCatalogoJogos\\Exceptions"
+  ],
+  "SelectedNode": "\\ExemploApiCatalogoJogos.sln",
+  "PreviewInSolutionExplorer": false
+}
